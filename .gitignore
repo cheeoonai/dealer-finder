@@ -1,0 +1,5 @@
+local.md
+__pycache__/
+*.pyc
+dealer-finder/
+.DS_Store
